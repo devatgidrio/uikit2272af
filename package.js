@@ -3,11 +3,11 @@
 
 Package.describe({
   name: 'devatgidrio:uikit2272af',
-  version: '2.27.2-af_1',
+  version: '2.27.2-af_2',
   // Brief, one-line summary of the package.
   summary: 'UIKit version 2.27.2 Almost Flat Theme from distro',
   // URL to the Git repository containing the source code for this package.
-  git: 'https://github.com/gidrdev/uikit2272af',
+  git: 'https://github.com/devatgidrio/uikit2272af',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
