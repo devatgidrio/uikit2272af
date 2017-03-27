@@ -2,7 +2,7 @@
 /* global Package:true */
 
 Package.describe({
-  name: 'gidrdev:uikit2272af',
+  name: 'devatgidrio:uikit2272af',
   version: '2.27.2-af_1',
   // Brief, one-line summary of the package.
   summary: 'UIKit version 2.27.2 Almost Flat Theme from distro',
@@ -79,6 +79,6 @@ Package.onUse(function(api) {
 
 Package.onTest(function(api) {
   //api.use('tinytest');
-  api.use('gidrdev:uikit2272af');
+  api.use('devatgidrio:uikit2272af');
   //api.addFiles('uikit-tests.js');
 });
